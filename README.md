@@ -10,10 +10,6 @@ The project is a social media app to share dogs' photos and it's the final proje
 
 Read more about the original project in [this repository](https://github.com/julianachagas/instadogs).
 
-## 💻 Status
-
-🚧 _in progress_ 🚧
-
 ## 🛠️ Technologies
 
 - HTML
@@ -22,6 +18,34 @@ Read more about the original project in [this repository](https://github.com/jul
 - [React Router](https://reactrouter.com/en/main)
 - [Redux](https://redux.js.org/)
 - [Victory](https://formidable.com/open-source/victory/)
+
+## 🔗 Link
+
+- Live Site URL: [InstaDogs: Redux](https://instadogs-redux.netlify.app/)
+
+## ⚙️ How to use
+
+To clone and run this project you'll need [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com) installed on your computer. In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/). Follow the instructions bellow:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/julianachagas/instadogs-redux.git
+
+# Go into the repository
+$ cd instadogs-redux
+
+# Install the dependencies
+$ npm install
+
+# Run the app in development mode
+# Open http://localhost:3000 to view it in your browser
+$ npm start
+
+# Build the app for production to the `build` folder
+# It correctly bundles React in production mode and optimizes the build for the best performance.
+$ npm run build
+
+```
 
 ## 👩🏻‍💻 Author
 
